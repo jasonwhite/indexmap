@@ -10,8 +10,6 @@ description = "A hash table with consistent order and fast iteration."
 [lib]
 bench = false
 
-[dependencies]
-
 [dev-dependencies]
 itertools = "0.5.1"
 rand = "0.3"
